@@ -7,15 +7,15 @@ assets:
   method: copy
   source:
   - name: obj/W_EX030.mdlx
-- name: obj/W_EX030.mdlx
+- name: obj/W_EX030_NM.mdlx
   method: copy
   source:
   - name: obj/W_EX030_NM.mdlx
-- name: obj/W_EX030.mdlx
+- name: obj/W_EX030_TR.mdlx
   method: copy
   source:
   - name: obj/W_EX030_TR.mdlx
-- name: obj/W_EX030.mdlx
+- name: obj/W_EX030_WI.mdlx
   method: copy
   source:
   - name: obj/W_EX030_WI.mdlx
@@ -38,6 +38,10 @@ assets:
   source:
   - name: remastered/obj/W_EX030_WI.mdlx/-0.dds
 
+- name: remastered/itempic/item-080.imd/-0.dds
+  method: copy
+  source:
+  - name: remastered/itempic/item-080.imd/-0.dds
 
 #SYSTEM TEXT SWAP
 - name: msg/us/sys.bar
